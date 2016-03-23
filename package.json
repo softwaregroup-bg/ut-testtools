@@ -16,6 +16,7 @@
     "changelog": "ut-changelog",
     "check": "ut-check",
     "lint": "ut-lint .",
+    "version": "ut-version",
     "postversion": "ut-postversion",
     "precommit": "ut-precommit",
     "prepublish": "ut-prepublish",
