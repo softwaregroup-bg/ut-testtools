@@ -1,10 +1,42 @@
-<a name="5.3.4"></a>
-## [5.3.4](/http://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.3...v5.3.4) (2016-03-23)
+<a name="5.3.5"></a>
+## [5.3.5](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.4...v5.3.5) (2016-03-23)
 
 
 ### Bug Fixes
 
-* fix #1000 ([4faea07](http://git.softwaregroup-bg.com/ut5/ut-testtools/commits/4faea07)), closes [#1000](http://git.softwaregroup-bg.com/ut5/ut-testtools/issues/1000)
+* fix changelog ([e515a41](https://git.softwaregroup-bg.com/ut5/ut-testtools/commit/e515a41))
+
+
+
+<a name="5.3.4"></a>
+## [5.3.4](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.3...v5.3.4) (2016-03-23)
+
+
+### Bug Fixes
+
+* fix #1000 ([4faea07](https://git.softwaregroup-bg.com/ut5/ut-testtools/commit/4faea07)), closes [#1000](https://git.softwaregroup-bg.com/ut5/ut-testtools/issues/1000)
+
+
+
+<a name="5.3.3"></a>
+## [5.3.3](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.2...v5.3.3) (2016-03-23)
+
+
+### Features
+
+* test feature 1 ([73f1569](https://git.softwaregroup-bg.com/ut5/ut-testtools/commit/73f1569))
+
+
+
+<a name="5.3.2"></a>
+## [5.3.2](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.1...v5.3.2) (2016-03-23)
+
+
+
+
+<a name="5.3.1"></a>
+## 5.3.1 (2016-03-23)
+
 
 
 
