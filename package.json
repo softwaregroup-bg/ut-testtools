@@ -3,7 +3,7 @@
   "version": "5.3.5",
   "dependencies": {},
   "devDependencies": {
-    "ut-tools": "~1.0.0"
+    "ut-tools": "^5.3.1"
   },
   "peerDependencies": {
     "ut-bus": "~5.3.0"
@@ -13,8 +13,10 @@
   },
   "description": "UT testtools module",
   "scripts": {
+    "export": "export",
     "changelog": "ut-changelog",
     "check": "ut-check",
+    "cover": "ut-cover",
     "lint": "ut-lint .",
     "version": "ut-version",
     "postversion": "ut-postversion",
@@ -23,7 +25,10 @@
     "prepush": "ut-prepush",
     "pretest": "ut-pretest",
     "preversion": "ut-preversion",
-    "test": "ut-test"
+    "test": "ut-test",
+    "lint-js": "ut-lint-js .",
+    "postpublish": "ut-postpublish",
+    "release": "ut-release"
   },
   "repository": {
     "type": "git",
