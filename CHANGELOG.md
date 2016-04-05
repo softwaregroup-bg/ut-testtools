@@ -1,3 +1,13 @@
+<a name="5.3.6"></a>
+## [5.3.6](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.5...v5.3.6) (2016-04-05)
+
+
+### Bug Fixes
+
+* fix errors ([c964412](https://git.softwaregroup-bg.com/ut5/ut-testtools/commit/c964412))
+
+
+
 <a name="5.3.5"></a>
 ## [5.3.5](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.4...v5.3.5) (2016-03-23)
 
