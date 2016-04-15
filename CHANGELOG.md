@@ -1,3 +1,13 @@
+<a name="5.3.9"></a>
+## [5.3.9](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.8...v5.3.9) (2016-04-15)
+
+
+### Features
+
+* add Gitlab-ci and Jenkins scripts ([f54ef26](https://git.softwaregroup-bg.com/ut5/ut-testtools/commit/f54ef26))
+
+
+
 <a name="5.3.8"></a>
 ## [5.3.8](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.7...v5.3.8) (2016-04-13)
 
