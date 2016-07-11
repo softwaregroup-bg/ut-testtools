@@ -1,3 +1,13 @@
+<a name="5.4.1"></a>
+## [5.4.1](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.9...v5.4.1) (2016-07-11)
+
+
+### Features
+
+* upgrade dependencies ([3f59410](https://git.softwaregroup-bg.com/ut5/ut-testtools/commit/3f59410))
+
+
+
 <a name="5.3.9"></a>
 ## [5.3.9](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.3.8...v5.3.9) (2016-04-15)
 
