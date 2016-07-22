@@ -1,5 +1,5 @@
 <a name="5.4.2"></a>
-## [5.4.2](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.1...v5.4.2) (2016-07-20)
+##  [5.4.2](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.1...v5.4.2) (2016-07-20)
 
 
 
