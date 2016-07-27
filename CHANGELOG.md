@@ -1,3 +1,13 @@
+<a name="5.5.0"></a>
+# [5.5.0](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.4.8...v5.5.0) (2016-07-27)
+
+
+### Features
+
+* switch repo URL ([eb330fa](https://github.com/softwaregroup-bg/ut-testtools/commit/eb330fa))
+
+
+
 <a name="5.4.8"></a>
 ## [5.4.8](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.7...v5.4.8) (2016-07-22)
 
