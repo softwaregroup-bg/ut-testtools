@@ -34,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.softwaregroup-bg.com:ut5/ut-testtools.git"
+    "url": "git@github.com:softwaregroup-bg/ut-testtools.git"
   }
 }
