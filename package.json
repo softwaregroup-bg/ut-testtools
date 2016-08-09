@@ -8,9 +8,6 @@
   "peerDependencies": {
     "ut-bus": "~5.4.2"
   },
-  "publishConfig": {
-    "registry": "https://nexus.softwaregroup-bg.com/repository/npm-internal"
-  },
   "description": "UT testtools module",
   "scripts": {
     "export": "export",
