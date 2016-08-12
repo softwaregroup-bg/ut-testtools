@@ -1,6 +1,6 @@
 {
   "name": "ut-testtools",
-  "version": "5.5.20",
+  "version": "5.5.21",
   "dependencies": {},
   "devDependencies": {
     "ut-tools": "^5.4.1"
