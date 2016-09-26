@@ -1,15 +1,12 @@
 {
   "name": "ut-testtools",
-  "version": "5.4.2",
+  "version": "5.5.30",
   "dependencies": {},
   "devDependencies": {
     "ut-tools": "^5.4.1"
   },
   "peerDependencies": {
     "ut-bus": "~5.4.2"
-  },
-  "publishConfig": {
-    "registry": "https://nexus.softwaregroup-bg.com/repository/npm-internal"
   },
   "description": "UT testtools module",
   "scripts": {
@@ -34,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.softwaregroup-bg.com:ut5/ut-testtools.git"
+    "url": "git@github.com:softwaregroup-bg/ut-testtools.git"
   }
 }

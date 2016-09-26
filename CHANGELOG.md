@@ -1,5 +1,135 @@
+<a name="5.5.18"></a>
+## [5.5.18](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.17...v5.5.18) (2016-08-02)
+
+
+
+<a name="5.5.17"></a>
+## [5.5.17](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.16...v5.5.17) (2016-07-28)
+
+
+
+<a name="5.5.16"></a>
+## [5.5.16](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.15...v5.5.16) (2016-07-28)
+
+
+
+<a name="5.5.15"></a>
+## [5.5.15](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.14...v5.5.15) (2016-07-28)
+
+
+
+<a name="5.5.14"></a>
+## [5.5.14](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.13...v5.5.14) (2016-07-28)
+
+
+
+<a name="5.5.13"></a>
+## [5.5.13](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.12...v5.5.13) (2016-07-28)
+
+
+
+<a name="5.5.12"></a>
+## [5.5.12](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.11...v5.5.12) (2016-07-28)
+
+
+
+<a name="5.5.11"></a>
+## [5.5.11](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.10...v5.5.11) (2016-07-28)
+
+
+
+<a name="5.5.10"></a>
+## [5.5.10](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.9...v5.5.10) (2016-07-28)
+
+
+
+<a name="5.5.9"></a>
+## [5.5.9](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.8...v5.5.9) (2016-07-28)
+
+
+
+<a name="5.5.8"></a>
+## [5.5.8](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.7...v5.5.8) (2016-07-28)
+
+
+
+<a name="5.5.7"></a>
+## [5.5.7](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.6...v5.5.7) (2016-07-28)
+
+
+
+<a name="5.5.6"></a>
+## [5.5.6](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.5...v5.5.6) (2016-07-28)
+
+
+
+<a name="5.5.5"></a>
+## [5.5.5](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.4...v5.5.5) (2016-07-28)
+
+
+
+<a name="5.5.4"></a>
+## [5.5.4](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.3...v5.5.4) (2016-07-28)
+
+
+
+<a name="5.5.3"></a>
+## [5.5.3](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.2...v5.5.3) (2016-07-28)
+
+
+
+<a name="5.5.2"></a>
+## [5.5.2](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.1...v5.5.2) (2016-07-28)
+
+
+
+<a name="5.5.1"></a>
+## [5.5.1](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.0...v5.5.1) (2016-07-28)
+
+
+
+<a name="5.5.0"></a>
+# [5.5.0](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.4.8...v5.5.0) (2016-07-27)
+
+
+### Features
+
+* switch repo URL ([eb330fa](https://github.com/softwaregroup-bg/ut-testtools/commit/eb330fa))
+
+
+
+<a name="5.4.8"></a>
+## [5.4.8](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.7...v5.4.8) (2016-07-22)
+
+
+
+<a name="5.4.7"></a>
+## [5.4.7](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.6...v5.4.7) (2016-07-22)
+
+
+
+<a name="5.4.6"></a>
+## [5.4.6](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.5...v5.4.6) (2016-07-22)
+
+
+
+<a name="5.4.5"></a>
+## [5.4.5](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.4...v5.4.5) (2016-07-22)
+
+
+
+<a name="5.4.4"></a>
+## [5.4.4](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.3...v5.4.4) (2016-07-22)
+
+
+
+<a name="5.4.3"></a>
+## [5.4.3](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.2...v5.4.3) (2016-07-22)
+
+
+
 <a name="5.4.2"></a>
-## [5.4.2](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.1...v5.4.2) (2016-07-20)
+##  [5.4.2](https://git.softwaregroup-bg.com/ut5/ut-testtools/compare/v5.4.1...v5.4.2) (2016-07-20)
 
 
 
