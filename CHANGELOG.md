@@ -1,3 +1,13 @@
+<a name="5.5.31"></a>
+## [5.5.31](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.18...v5.5.31) (2017-01-05)
+
+
+### Bug Fixes
+
+* add license ([0230651](https://github.com/softwaregroup-bg/ut-testtools/commit/0230651))
+
+
+
 <a name="5.5.18"></a>
 ## [5.5.18](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.17...v5.5.18) (2016-08-02)
 
