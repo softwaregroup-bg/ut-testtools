@@ -32,5 +32,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:softwaregroup-bg/ut-testtools.git"
-  }
+  },
+  "license": "Apache-2.0"
 }
