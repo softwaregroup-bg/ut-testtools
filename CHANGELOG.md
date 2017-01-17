@@ -1,3 +1,13 @@
+<a name="5.5.32"></a>
+## [5.5.32](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.31...v5.5.32) (2017-01-17)
+
+
+### Bug Fixes
+
+* update dependencies ([4ed1d60](https://github.com/softwaregroup-bg/ut-testtools/commit/4ed1d60))
+
+
+
 <a name="5.5.31"></a>
 ## [5.5.31](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.18...v5.5.31) (2017-01-05)
 
