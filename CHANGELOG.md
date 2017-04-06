@@ -1,3 +1,13 @@
+<a name="5.5.47"></a>
+## [5.5.47](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.46...v5.5.47) (2017-04-06)
+
+
+### Bug Fixes
+
+* readme file ([2ad1e68](https://github.com/softwaregroup-bg/ut-testtools/commit/2ad1e68))
+
+
+
 <a name="5.5.46"></a>
 ## [5.5.46](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.45...v5.5.46) (2017-03-13)
 
