@@ -1,3 +1,13 @@
+<a name="5.5.69"></a>
+## [5.5.69](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.68...v5.5.69) (2018-01-29)
+
+
+### Bug Fixes
+
+* Test github ([ad08342](https://github.com/softwaregroup-bg/ut-testtools/commit/ad08342))
+
+
+
 <a name="5.5.68"></a>
 ## [5.5.68](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.67...v5.5.68) (2017-11-27)
 
