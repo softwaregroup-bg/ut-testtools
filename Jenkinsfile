@@ -6,7 +6,7 @@ node ('implementation-slaves'){
     }
 
     stage('Build image'){
-        module = docker.build("rosko")
+        module = docker.image("nexus-dev.softwaregroup-bg.com:5000/alpine-nodejs:3.7-8.10.0-5.6.0")
     }
 
     stage('Run ut-tools'){
