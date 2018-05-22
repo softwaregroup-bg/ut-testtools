@@ -17,7 +17,7 @@ node ('implementation-slaves'){
             ]){
                     sh 'npm --production=false install --registry=https://nexus-dev.softwaregroup-bg.com/repository/npm-all && { npm ls || true; }'
             }
-            sh 'node index.js'
+            sh 'npm run jenkins'
             }
     }
 }
