@@ -11,13 +11,10 @@ node ('implementation-slaves'){
 
     stage('Run ut-tools'){
         module.inside{
-            withEnv([
-                'npm_config_cache=npm-cache',
-                'HOME=.',
-            ]){
+            withEnv([ 'npm_config_cache=npm-cache', 'HOME=.', ]){
                     sh 'npm --production=false install --registry=https://nexus-dev.softwaregroup-bg.com/repository/npm-all && { npm ls || true; }'
+                    sh 'npm run jenkins'
             }
-            sh 'npm run jenkins'
-            }
+        }
     }
 }
