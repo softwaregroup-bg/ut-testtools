@@ -1,13 +1,11 @@
 @Library('global-shared-vars') _
+/* */
+def node_version = 8
 
 node ('implementation-slaves'){
 
-    stage('Checkout git'){
-        checkout scm
-    }
-
     stage('Build project and run integration tests'){
-        build.project()
+        build.project node_version
     }
 }
 
