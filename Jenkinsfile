@@ -1,3 +1,5 @@
+@Library('global-shared-vars') _
+
 node ('implementation-slaves'){
 
     stage('Checkout git'){
