@@ -11,11 +11,11 @@ node ('implementation-slaves'){
         checkout scm
     }
 
-    stage('Just a test'){
-        echo "Build cause is ${BUILD_CAUSE}"
-        echo "BUILD NUMBER is ${BUILD_NUMBER}"
-    }
     stage('Build project'){
         build.project()
+    }
+
+    stage('Publish reports'){
+        checkstyle canComputeNew: false, defaultEncoding: '', healthy: '', pattern: '**/lint*.xml', unHealthy: ''
     }
 }
