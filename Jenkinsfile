@@ -16,6 +16,6 @@ node ('implementation-slaves'){
     }
 
     stage('Publish reports'){
-        checkstyle canComputeNew: false, defaultEncoding: '', healthy: '', pattern: '*/lint*.xml', unHealthy: ''
+        checkstyle canComputeNew: false, defaultEncoding: '', healthy: '', pattern: 'lint.xml', unHealthy: ''
     }
 }
