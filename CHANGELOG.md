@@ -1,3 +1,8 @@
+<a name="5.5.70"></a>
+## [5.5.70](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.69...v5.5.70) (2018-05-28)
+
+
+
 <a name="5.5.69"></a>
 ## [5.5.69](https://github.com/softwaregroup-bg/ut-testtools/compare/v5.5.68...v5.5.69) (2018-01-29)
 
