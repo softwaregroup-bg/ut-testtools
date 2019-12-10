@@ -6,7 +6,7 @@ node ('implementation-slaves'){
     }
 
     stage('Build image'){
-        module = docker.image("nexus-dev.softwaregroup.com:5000/alpine-nodejs:8.14.0-6.4.1")
+        module = docker.image("nexus-dev.softwaregroup.com:5000/alpine-38/alpine-nodejs:8.14.0-6.4.1")
     }
 
     stage('Run ut-tools'){
