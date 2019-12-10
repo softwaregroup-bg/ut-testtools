@@ -1,6 +1,6 @@
 {
   "name": "ut-testtools",
-  "version": "5.5.71",
+  "version": "5.6.0-chainsaw.0",
   "dependencies": {},
   "devDependencies": {
     "ut-tools": "^5.11.1"
