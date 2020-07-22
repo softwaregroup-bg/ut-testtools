@@ -1,1 +1,1 @@
-Test adding a feature
+Test adding a feature.
