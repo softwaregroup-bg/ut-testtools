@@ -1,3 +1,4 @@
+---
 test:
     script:
         - wget https://git.softwaregroup-bg.com/ut5/ut-tools/raw/master/gitlab/gitlab-ci.sh -O gitlab-ci.sh
