@@ -1,5 +1,5 @@
 /*
-library identifier: 'jenkinsfile@fix_permission', retriever: modernSCM([
+library identifier: 'jenkinsfile@devops', retriever: modernSCM([
     $class: 'GitSCMSource',
     remote: 'https://github.com/softwaregroup-bg/jenkinsfile.git'
 ])
