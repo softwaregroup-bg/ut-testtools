@@ -6,4 +6,5 @@ library identifier: 'jenkinsfile@devops', retriever: modernSCM([
 
 ut buildImage: 'node:10-alpine'
 */
+
 sg([lang: 'js', buildImage: 'softwaregroup/ut-docker'])
