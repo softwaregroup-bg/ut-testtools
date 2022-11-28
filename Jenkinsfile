@@ -5,3 +5,6 @@ library identifier: 'jenkinsfile@feat/BR-1033', retriever: modernSCM([
 ])
 
 ut buildImage: 'node:10-alpine'
+*/
+
+sg([lang: 'js', buildImage: 'softwaregroup/ut-docker'])
